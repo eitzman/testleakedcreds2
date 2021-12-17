@@ -18,3 +18,10 @@
 "AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
 
 //recommitting the above
+
+// Dec 17 - adding a new secret here
+
+"AadClientId": "752f776d-a403-46ab-b57b-4c59a7804bfa",
+"AadSecret": "9FA7Q~oyC3.XMc3XYAz_fxwYassfz950RxPAR",
+"AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
+
