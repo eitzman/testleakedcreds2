@@ -25,3 +25,9 @@
 "AadSecret": "9FA7Q~oyC3.XMc3XYAz_fxwYassfz950RxPAR",
 "AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
 
+// committing existing creds from a different readme in same public repo on 12/28 at 6PM UTC
+
+AadClientId:e1337603-ebe0-4739-82ce-f3c80d1a0d17
+AadSecret:qXx7Q~gOCUqZ9~nzlDQQngutM9JJp1lBs60~c
+AadTenantId: 536279f6-15cc-45f2-be2d-61e352b51eef
+Name: CONTOSO FRONT DESK
