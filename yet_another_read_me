@@ -2,7 +2,7 @@ testing leaked creds on 12/23/21 6:01UTC
 retesting same creds on 1/11/22 19:00UTC
 retesting same creds on 1/18/22 19:00UTC
 
-AadClientId:e1337603-ebe0-4739-82ce-f3c80d1a0d17
-AadSecret:qXx7Q~gOCUqZ9~nzlDQQngutM9JJp1lBs60~c
-AadTenantId: 536279f6-15cc-45f2-be2d-61e352b51eef
-Name: CONTOSO FRONT DESK
+- AadClientId:e1337603-ebe0-4739-82ce-f3c80d1a0d17
+- AadSecret:qXx7Q~gOCUqZ9~nzlDQQngutM9JJp1lBs60~c
+- AadTenantId: 536279f6-15cc-45f2-be2d-61e352b51eef
+- Name: CONTOSO FRONT DESK
