@@ -4,3 +4,10 @@ AadClientId:e1337603-ebe0-4739-82ce-f3c80d1a0d17
 AadSecret:qXx7QgOCUqZ9nzlDQQngutM9JJp1lBs60~c 
 AadTenantId: 536279f6-15cc-45f2-be2d-61e352b51eef 
 Name: CONTOSO FRONT DESK
+
+// committing new creds from a different file in same public repo on 2/2/22 at 9PM UTC
+
+AadClientId:e1337603-ebe0-4739-82ce-f3c80d1a0d17 
+AadSecret:_GO7Q~aBLC1fEz5A-XR4TX5i3ZtBH7BWEf7sP
+AadTenantId: 536279f6-15cc-45f2-be2d-61e352b51eef 
+Name: CONTOSO FRONT DESK
