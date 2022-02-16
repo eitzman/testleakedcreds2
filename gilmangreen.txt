@@ -1,0 +1,4 @@
+"AadClientId": "846771e6-492e-4b80-b0e1-1ae1e9327651", 
+"AadSecret": "b~D7Q~eI-ip10KZG_xpnsILAk.R8tApaDqZ5A", 
+"AadTenantId": "c9defe2a-25f6-404f-8dc6-fab9a45ce090", 
+"Name": "App for Testing Leaked Creds 1",
