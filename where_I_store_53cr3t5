@@ -1,3 +1,26 @@
+// committing new creds from a different file in same public repo on 9/6/22
+
+"AadClientId": "1e429928-7ff6-432e-a2a4-c46f48a54cfe",
+"AadSecret": "B0b8Q~DZ3hrLHuZA5nzZYpH-NYPQOLNMzDNozc~c",
+"AadTenantId": "536279f6-15cc-45f2-be2d-61e352b51eef",
+"AadTenantDomain": "woodgrove.ms",
+"Name": "CONTOSO CHAT BOT",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // committing existing creds from a different file in same public repo on 2/2/22 at 9PM UTC
 
 AadClientId:e1337603-ebe0-4739-82ce-f3c80d1a0d17 
